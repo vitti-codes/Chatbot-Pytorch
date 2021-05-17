@@ -1,5 +1,5 @@
 # Chatbot-Pytorch-INM706
-This repository contains the implementation of the final solution for the coursework of Deep Learning for Image Analysis [INM706] at City, University of London.
+This repository contains the implementation of the final solution for the coursework of Deep Learning for Image Analysis [INM706] at City, University of London. This was a Pair-Programming excercise, the team members being Tommaso Capecchi and myself. 
 
 We implemented a Seq2Seq model to build a Chatbot. The model can be downloaded from this repository and in order to run the Jupyter Notebook and the python files you must use the virtual environment provided in the following folder.
 
